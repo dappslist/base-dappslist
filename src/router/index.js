@@ -34,18 +34,6 @@ const routes = [
 			title: 'Projects on Base',
 		},
 	},
-	{
-		path: '/subscribe',
-		name: 'Subscribe',
-		// route level code-splitting
-		// this generates a separate chunk (about.[hash].js) for this route
-		// which is lazy-loaded when the route is visited.
-		component: () =>
-			import(/* webpackChunkName: "about" */ '../views/Subscribe.vue'),
-		meta: {
-			title: 'Subscribe',
-		},
-	},
 ];
 
 const router = createRouter({
