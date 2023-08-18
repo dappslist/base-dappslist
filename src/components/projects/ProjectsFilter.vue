@@ -12,6 +12,9 @@ export default {
 				'Web3 Social',
 				'DEX',
 				'Bridge',
+				'Yield Farming',
+				'Lending',
+				'NFT'
 			],
 		},
 	},
