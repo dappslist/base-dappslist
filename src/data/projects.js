@@ -73,6 +73,13 @@ const projects = [
 	},
 	{
 		id: 0,
+		title: 'Friend.tech',
+		category: 'Web3 Social',
+		img: require('@/assets/images/projects/friend-tech.jpg'),
+		url: 'https://www.friend.tech/'
+	},
+	{
+		id: 0,
 		title: 'DODO',
 		category: 'DEX',
 		img: require('@/assets/images/projects/dodo.png'),
@@ -133,6 +140,13 @@ const projects = [
 		category: 'DEX',
 		img: require('@/assets/images/projects/sushi.png'),
 		url: 'https://www.sushi.com/swap?chainId=8453'
+	},
+	{
+		id: 0,
+		title: 'FriendMEX',
+		category: 'DEX',
+		img: require('@/assets/images/projects/friendmex.png'),
+		url: 'https://friendmex.com/'
 	}
 ];
 
