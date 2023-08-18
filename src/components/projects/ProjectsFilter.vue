@@ -14,7 +14,8 @@ export default {
 				'Bridge',
 				'Yield Farming',
 				'Lending',
-				'NFT'
+				'NFT',
+				'Send tokens'
 			],
 		},
 	},
