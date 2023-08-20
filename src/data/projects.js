@@ -147,6 +147,27 @@ const projects = [
 		category: 'DEX',
 		img: require('@/assets/images/projects/friendmex.png'),
 		url: 'https://friendmex.com/'
+	},
+	{
+		id: 0,
+		title: 'Velocimeter',
+		category: 'DEX',
+		img: require('@/assets/images/projects/velocimeter.png'),
+		url: 'https://base.velocimeter.xyz/'
+	},
+	{
+		id: 0,
+		title: 'Firebird',
+		category: 'DEX aggregator',
+		img: require('@/assets/images/projects/firebird.jpg'),
+		url: 'https://app.firebird.finance/swap'
+	},
+	{
+		id: 0,
+		title: 'BaseSwap',
+		category: 'DEX',
+		img: require('@/assets/images/projects/baseswap.jpg'),
+		url: 'https://baseswap.fi/swap'
 	}
 ];
 
