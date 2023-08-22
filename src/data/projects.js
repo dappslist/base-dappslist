@@ -157,6 +157,13 @@ const projects = [
 	},
 	{
 		id: 0,
+		title: 'Magnate',
+		category: 'Lending',
+		img: require('@/assets/images/projects/magnate.png'),
+		url: 'https://www.magnate.finance/'
+	},
+	{
+		id: 0,
 		title: 'Firebird',
 		category: 'DEX aggregator',
 		img: require('@/assets/images/projects/firebird.jpg'),
