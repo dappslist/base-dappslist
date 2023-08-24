@@ -182,6 +182,13 @@ const projects = [
 		category: 'NFT Marketplace',
 		img: require('@/assets/images/projects/culturemedia.png'),
 		url: 'https://www.culturemedia.app/'
+	},
+	{
+		id: 0,
+		title: 'Maskie',
+		category: 'NFT',
+		img: require('@/assets/images/projects/maskie.png'),
+		url: 'https://maskie.xyz/'
 	}
 ];
 
