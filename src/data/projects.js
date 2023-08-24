@@ -175,6 +175,13 @@ const projects = [
 		category: 'DEX',
 		img: require('@/assets/images/projects/baseswap.jpg'),
 		url: 'https://baseswap.fi/swap'
+	},
+	{
+		id: 0,
+		title: 'CULTUREMEDIA',
+		category: 'NFT Marketplace',
+		img: require('@/assets/images/projects/culturemedia.png'),
+		url: 'https://www.culturemedia.app/'
 	}
 ];
 

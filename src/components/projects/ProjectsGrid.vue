@@ -10,7 +10,7 @@ export default {
 	data: () => {
 		return {
 			projects,
-			projectsNumOnHome: 9, // select how many projects are shown on the Home page
+			projectsNumOnHome: 12, // select how many projects are shown on the Home page
 			projectsHeading: 'Projects on Base',
 			selectedCategory: '',
 			searchProject: '',
