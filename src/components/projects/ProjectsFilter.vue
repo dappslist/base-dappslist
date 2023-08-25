@@ -18,7 +18,8 @@ export default {
 				'Send tokens',
 				'Domains',
 				'DAO',
-				'Subscriptions'
+				'Subscriptions',
+				'Gaming'
 			],
 		},
 	},

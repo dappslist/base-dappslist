@@ -238,6 +238,13 @@ const projects = [
 		category: 'NFT',
 		img: require('@/assets/images/projects/basepunk.png'),
 		url: 'https://zora.co/collect/base:0xe04519804db18433bd7f79ea857fda4e2fa1fe32'
+	},
+	{
+		id: 0,
+		title: 'Fren Game',
+		category: 'Gaming',
+		img: require('@/assets/images/projects/frengame.png'),
+		url: 'https://frengame.tech/'
 	}
 ];
 
