@@ -189,6 +189,13 @@ const projects = [
 		category: 'NFT',
 		img: require('@/assets/images/projects/maskie.png'),
 		url: 'https://maskie.xyz/'
+	},
+	{
+		id: 0,
+		title: 'Base Name Service',
+		category: 'Domains',
+		img: require('@/assets/images/projects/bns.png'),
+		url: 'https://basename.app'
 	}
 ];
 

@@ -15,7 +15,8 @@ export default {
 				'Yield Farming',
 				'Lending',
 				'NFT',
-				'Send tokens'
+				'Send tokens',
+				'Domains'
 			],
 		},
 	},
