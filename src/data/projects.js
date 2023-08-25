@@ -60,7 +60,7 @@ const projects = [
 	{
 		id: 0,
 		title: 'Bungee',
-		category: 'Bridge',
+		category: 'Bridge Aggregator',
 		img: require('@/assets/images/projects/bungee.png'),
 		url: 'https://www.bungee.exchange/'
 	},
@@ -196,6 +196,48 @@ const projects = [
 		category: 'Domains',
 		img: require('@/assets/images/projects/bns.png'),
 		url: 'https://basename.app'
+	},
+	{
+		id: 0,
+		title: '1inch',
+		category: 'DEX Aggregator',
+		img: require('@/assets/images/projects/1inch.png'),
+		url: 'https://app.1inch.io/#/8453/simple/swap/ETH/WETH'
+	},
+	{
+		id: 0,
+		title: 'Jumper',
+		category: 'Bridge Aggregator',
+		img: require('@/assets/images/projects/jumper.jpg'),
+		url: 'https://jumper.exchange/?toChain=8453'
+	},
+	{
+		id: 0,
+		title: 'Aragon',
+		category: 'DAO tooling',
+		img: require('@/assets/images/projects/aragon.png'),
+		url: 'https://aragon.org/'
+	},
+	{
+		id: 0,
+		title: 'Unlock Protocol',
+		category: 'Subscriptions',
+		img: require('@/assets/images/projects/unlock.jpg'),
+		url: 'https://unlock-protocol.com/'
+	},
+	{
+		id: 0,
+		title: 'MES Protocol',
+		category: 'DEX',
+		img: require('@/assets/images/projects/mes.png'),
+		url: 'https://www.mesprotocol.com/'
+	},
+	{
+		id: 0,
+		title: 'Base Punk',
+		category: 'NFT',
+		img: require('@/assets/images/projects/basepunk.png'),
+		url: 'https://zora.co/collect/base:0xe04519804db18433bd7f79ea857fda4e2fa1fe32'
 	}
 ];
 

@@ -16,7 +16,9 @@ export default {
 				'Lending',
 				'NFT',
 				'Send tokens',
-				'Domains'
+				'Domains',
+				'DAO',
+				'Subscriptions'
 			],
 		},
 	},
