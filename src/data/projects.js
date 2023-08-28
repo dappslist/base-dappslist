@@ -45,6 +45,13 @@ const projects = [
 	},
 	{
 		id: 0,
+		title: 'Basebook ID',
+		category: 'Identity',
+		img: require('@/assets/images/projects/basebook-id.png'),
+		url: 'https://id.basebook.xyz'
+	},
+	{
+		id: 0,
 		title: 'Compound',
 		category: 'Lending',
 		img: require('@/assets/images/projects/compound.png'),
@@ -193,7 +200,7 @@ const projects = [
 	{
 		id: 0,
 		title: 'Base Name Service',
-		category: 'Domains',
+		category: 'Identity',
 		img: require('@/assets/images/projects/bns.png'),
 		url: 'https://basename.app'
 	},

@@ -16,7 +16,7 @@ export default {
 				'Lending',
 				'NFT',
 				'Send tokens',
-				'Domains',
+				'Identity',
 				'DAO',
 				'Subscriptions',
 				'Gaming'
