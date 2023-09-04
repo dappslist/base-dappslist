@@ -15,6 +15,7 @@ export default {
 				'Yield Farming',
 				'Lending',
 				'NFT',
+				'Launchpad',
 				'Send tokens',
 				'Identity',
 				'DAO',
