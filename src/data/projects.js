@@ -246,6 +246,105 @@ const projects = [
 		img: require('@/assets/images/projects/frengame.png'),
 		url: 'https://frengame.tech/'
 	}
+
+
+
+	,
+	{
+		id: 0,
+		title: 'BasePaint',
+		category: 'NFT',
+		img: require('@/assets/images/projects/basepaint.jpg'),
+		url: 'https://basepaint.art/'
+	}
+	,
+	{
+		id: 0,
+		title: 'Symbiosis',
+		category: 'DEX',
+		img: require('@/assets/images/projects/symbiosis.png'),
+		url: 'https://app.symbiosis.finance/swap?chainIn=Base&tokenIn=ETH'
+	}
+	,
+	{
+		id: 0,
+		title: 'Lorak',
+		category: 'Gaming',
+		img: require('@/assets/images/projects/lorak.jpg'),
+		url: 'https://landtorn.com/lorak'
+	}
+	,
+	{
+		id: 0,
+		title: 'Synthswap',
+		category: 'DEX',
+		img: require('@/assets/images/projects/synthswap.jpg'),
+		url: 'https://www.synthswap.io/exchange/besttrade'
+	}
+	,
+	{
+		id: 0,
+		title: 'Slice',
+		category: 'NFT',
+		img: require('@/assets/images/projects/slice.jpg'),
+		url: 'https://slice.so/slicer'
+	}
+	,
+	{
+		id: 0,
+		title: 'Indelible Labs',
+		category: 'NFT',
+		img: require('@/assets/images/projects/indelible-labs.jpg'),
+		url: 'https://app.indelible.xyz/feed'
+	}
+	,
+	{
+		id: 0,
+		title: 'Collectify',
+		category: 'Launchpad',
+		img: require('@/assets/images/projects/collectify.png'),
+		url: 'https://launchpad.collectify.app/#/'
+	}
+	,
+	{
+		id: 0,
+		title: 'Horiza',
+		category: 'DEX',
+		img: require('@/assets/images/projects/horiza.jpg'),
+		url: 'https://app.horiza.io/'
+	}
+	,
+	{
+		id: 0,
+		title: 'L2Coin',
+		category: 'Yield Farming',
+		img: require('@/assets/images/projects/l2coin.jpg'),
+		url: 'https://l2coin.io/home'
+	}
+	,
+	{
+		id: 0,
+		title: 'Swapline.com',
+		category: 'DEX',
+		img: require('@/assets/images/projects/swapline.jpg'),
+		url: 'https://app.swapline.com/swap'
+	}
+	,
+	{
+		id: 0,
+		title: 'Clique',
+		category: 'DAO',
+		img: require('@/assets/images/projects/myclique.png'),
+		url: 'https://www.myclique.io/daos'
+	}
+	,
+	{
+		id: 0,
+		title: 'LuckyBid',
+		category: 'Launchpad',
+		img: require('@/assets/images/projects/luckybid.png'),
+		url: 'https://app.luckybid.xyz/'
+	}
 ];
 
 export default projects;
