@@ -247,6 +247,16 @@ const projects = [
 		url: 'https://frengame.tech/'
 	}
 
+
+
+	,
+	{
+		id: 0,
+		title: 'BasePaint',
+		category: 'NFT',
+		img: require('@/assets/images/projects/basepaint.jpg'),
+		url: 'https://basepaint.art/'
+	}
 	,
 	{
 		id: 0,
