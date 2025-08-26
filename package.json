@@ -2,6 +2,9 @@
   "name": "base-dappslist",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
